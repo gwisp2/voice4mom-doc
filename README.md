@@ -1,20 +1,4 @@
 # Voice4mom
 
-Мод для приложения-компаньона "Особняки Безумия: Второе Издание". Мод озвучивает все тексты в игре, передавая их на сервер и скачивая необходимые аудиофайлы. Он создан для последней версии игры на Windows.
-
-## Установка
-
-### Шаг 1. Установка загрузчика модов
-
-1. Перейдите на страницу [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2) и скачайте архив [BepInEx_win_x86_5.4.23.2.zip](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x86_5.4.23.2.zip).
-2. Распакуйте скачанный архив в каталог с игрой. Обычно это `c:\Program Files (x86)\Steam\steamapps\common\Mansions of Madness`.
-3. Запустите игру один раз. После этого в папке с игрой должен появиться каталог `BepInEx/plugins`.
-
-### Шаг 2. Установка мода
-
-1. Скачайте мод [отсюда](https://github.com/gwisp2/voice4mom-doc/releases).
-2. Поместите скачанный файл .dll в `BepInEx/plugins`.
-
-### Шаг 3. Запуск игры
-
-Запустите игру и начните сценарий. Если всё было сделано правильно, все текстовые сообщения будут озвучены. Если что-то не работает, загляните в `BepInEx/LogOutput.log` для получения дополнительной информации.
+EN: [Install guide](https://github.com/gwisp2/MansionOfMadness-Mods/wiki/Installing-mods-%E2%80%90-EN)  
+RU: [Инструкция по установке](https://github.com/gwisp2/MansionOfMadness-Mods/wiki/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BC%D0%BE%D0%B4%D0%BE%D0%B2-%E2%80%90-RU)  
